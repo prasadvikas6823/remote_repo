@@ -1,6 +1,7 @@
-print()[D""[DFirst line[C[D")
-print()[D""()[D""[DSecond line")
-print()[D""[DThird Line")
-fourth linefifth line
-print()[D""[Dfifth line")
-print()[D""[DSixth line")
+print("First line")
+print("Second line")
+print("Third Line")
+print("fouth line")
+print("fifth line")
+print("Sixth line")
+print("Seventh line")
